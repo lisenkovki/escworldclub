@@ -1,0 +1,48 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<title>Главная ESCWorldClub</title>
+    <meta charset="utf-8">
+<style>
+body {
+    background-color:white;
+    font-family: "Arial";
+    color: #999999;
+}
+.menu {
+    list-style-type: none;
+    text-transform:uppercase;
+    overflow: hidden;
+}
+.menu a {
+    text-align:center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Franklin Gothic Demi,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;
+    font-weight:500;
+    color: white;
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: #5c5080;
+    border-bottom: 5px solid #77c5f6;
+}
+.menu li {
+    float: left;
+}
+.logo {
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+</style>
+</head>
+
+<body>
+  <img class="logo" src="logo.png" alt="ESCWorldClub"></a></center>
+  <hr>
+  <ul class="menu" >
+  <li><a href="">Главная</a></li><li><a href="">Новости</a></li><li><a href="">Интервью</a></li><li><a href="">Контакты</a></li>
+  </ul>
+  <hr>
+</body>
+</html>
